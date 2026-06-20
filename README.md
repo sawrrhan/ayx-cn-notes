@@ -1,2 +1,14 @@
 # ayx-cn-notes
-HTML page archive and documentation
+
+页面归档与发布记录
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
